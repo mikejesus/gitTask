@@ -6,7 +6,22 @@ const tiidelabHoH = [
 	},
 	{
 		name: "Kemi Christiana Awoyele"
-	}
+	},
+
+	//More names added
+	{
+		name: "Nazih Aljana"
+	},
+
+	{
+		name: "Abdulazeez Dolapo"
+	},
+	{
+		name: "Michael Sunday Olawuni"
+	},
+	{
+		name: "Damilola Oladimeji"
+	}	
 ]
 
 tiidelabHoH.forEach(user=>{
